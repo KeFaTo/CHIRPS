@@ -1,2 +1,2 @@
 #CHIRPS
-Promedios de precipitacioón en Mesoamérica
+Promedios de precipitación en Mesoamérica
